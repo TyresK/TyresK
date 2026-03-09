@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1>Hi, I'm Tyres! <br/><a href="https://github.com/TyresK">Network Engineer</a>, <a href="https://www.linkedin.com/in/tyres-k/">Cybersecurity Professional</a>
+<h1>I'm Tyres! <br/><a href="https://github.com/TyresK">Network Engineer</a>, <a href="https://www.linkedin.com/in/tyres-k/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 CCNA Projects</h2>
 
