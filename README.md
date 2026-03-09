@@ -3,8 +3,8 @@
 
 <h2>👨‍💻 CCNA Projects</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>CCNA Projects</b>
+  - [Showcasing my daily CCNA personal projects](https://github.com/TyresK/CCNA)
 
 <h2> 🤳 Connect with me:</h2>
 [linkedin]: https://www.linkedin.com/in/tyres-k/
